@@ -1,6 +1,6 @@
 title: Bruno Brasil - Expert Advisor Developer 
 description: > # this means to ignore newlines until "baseurl:"
-  Desenvolvedor de Software e Expert Advidor especialista em Robôs de Investimentos para o mercado Forex.
+  Desenvolvedor de Software & Expert Advidor especialista em Robôs de Investimentos para o mercado Forex. Se você tem uma estratégia e quer automatizar fale comigo.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://brunobrasil.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: https://twitter.com/brunobrasilweb #if your site has a twitter acc
 # Author Settings
 author: Bruno Brasil # add your name
 author-img: bruno-brasil.jpg # add your photo
-about-author: Desenvolvedor de Expert Advidor para Forex. # add description
+about-author: Desenvolvedor de Expert Advidor para Forex. (Robôs de Investimentos) # add description
 social-twitter: brunobrasilweb # add your Twitter handle
 social-facebook: brunobrasilweb # add your Facebook handle
 social-github: brunobrasilweb # add your Github handle
