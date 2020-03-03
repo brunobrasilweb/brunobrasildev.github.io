@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por que em operar Forex é melhor do que B3"
+title: "Por que operar Forex é melhor do que B3"
 date: 2020-02-11 14:00:00 +0300
 description: Veja as vantagens em operar Forex em relação ao mercado futuro no B3 para quem está iniciando no Mercado Financeiro.
 img: forex-vs-b3.png
