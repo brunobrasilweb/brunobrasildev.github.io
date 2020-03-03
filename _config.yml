@@ -10,11 +10,11 @@ site-twitter: https://twitter.com/brunobrasilweb #if your site has a twitter acc
 author: Bruno Brasil # add your name
 author-img: bruno-brasil.jpg # add your photo
 about-author: Desenvolvedor de Expert Advidor para Forex. <br> (Robôs de Investimentos) # add description
-social-twitter: brunobrasilweb # add your Twitter handle
+social-twitter: brunobrasildev # add your Twitter handle
 social-facebook: brunobrasilweb # add your Facebook handle
 social-github: brunobrasilweb # add your Github handle
 social-linkedin: bruno-brasil-89b67430 # add your Linkedin handle
-social-email: brunobrasilweb@gmail.com # add your Email address
+social-email: contato@brunobrasil.dev # add your Email address
 
 # Disqus
 discus-identifier: brunobrasilweb # add your discus identifier
